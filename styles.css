@@ -1,0 +1,15 @@
+#watch{
+  text-align: center;
+  background-color: #FEC260;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  width: 75%;
+  margin-top: 10%;
+  margin: 0 auto;
+}
+
+.btn{
+  margin: 14px;
+  height: 60px;width: 200px;
+  font-family: 'Montserrat', sans-serif;
+}
